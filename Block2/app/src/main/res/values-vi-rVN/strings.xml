@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block2</string>
+    <string name="textHeader">Chọn loài vật</string>
+    <string name="dog">chó</string>
+    <string name="cat">mèo</string>
+    <string name="pig">lợn</string>
+    <string name="horse">ngựa</string>
+    <string name="toastMes">"Bạn đã chọn "</string>
+</resources>
